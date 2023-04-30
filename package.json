@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "description": "First App in Electron",
+  "author": "John Doe",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: No test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^24.1.3"
+  }
+}
