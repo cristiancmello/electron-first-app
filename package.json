@@ -1,5 +1,5 @@
 {
-  "name": "my-electron-app",
+  "name": "electron-first-app",
   "version": "1.0.0",
   "main": "main.js",
   "description": "First App in Electron",
